@@ -35,5 +35,8 @@
 ## 主食
 * [免揉面包](stapleFood/免揉面包.md)
 
+## 配料
+* [家常红油](ingredients/家常红油.md)
+
 ## 其他
 * [溏心蛋](other/溏心蛋.md)
