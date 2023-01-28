@@ -3,6 +3,7 @@
 * [包子](pasta/Bun.md)
 
 ## 凉菜
+* [油腌辣椒](coldDish/油腌辣椒.md)
 * [酸辣白萝卜](coldDish/酸辣白萝卜.md)
 * [香干马兰头](coldDish/香干马兰头.md)
 
